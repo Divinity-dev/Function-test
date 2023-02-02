@@ -1,0 +1,23 @@
+{
+  "name": "function-test",
+  "version": "1.0.0",
+  "description": "This is a project for test driven development",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divinity-dev/Function-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divinity-dev/Function-test/issues"
+  },
+  "homepage": "https://github.com/Divinity-dev/Function-test#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
